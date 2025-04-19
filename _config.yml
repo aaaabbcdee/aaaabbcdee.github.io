@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: Bel Blog
 SEOTitle: bel的博客 | bel Blog
 header-img: img/home-bg.jpg
 email: 2308891318@qq.com
@@ -13,12 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+github_username: aaaabbcdee
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
