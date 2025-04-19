@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      "wordpress搭建网站"
+subtitle:   "学习记录"
+date:       2025-04-19 15:30:00
+author:     "bel"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - study
+---
+
 #服务器 #IP地址 #域名 #DNS #ssll证书配置
 ### 使用wordpress搭建网站的整个过程：
 
