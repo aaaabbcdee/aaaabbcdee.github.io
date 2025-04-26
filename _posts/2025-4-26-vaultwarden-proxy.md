@@ -1,4 +1,13 @@
-
+---
+layout:     post
+title:      "通过反向代理配置vaultwarden项目实现多端密码存储"
+subtitle:   "学习记录"
+date:       2025-04-26 15:42:00
+author:     "bel"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - study
+---
 
 Vaultwarden 是一个轻量级的密码管理服务，支持自托管。
 
